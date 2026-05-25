@@ -31,3 +31,6 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on a health 
 * Python 3
 * Pandas & NumPy (Data Wrangling)
 * Matplotlib & Seaborn (Advanced Visualization)
+
+## Author
+Tejal Joshi
